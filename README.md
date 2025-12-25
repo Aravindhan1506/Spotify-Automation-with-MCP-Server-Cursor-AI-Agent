@@ -92,12 +92,18 @@ Save the current song to liked songs
 
 ## 📸 Screenshots
 
+Creating a playlist and add a song
+![image alt](cursor-command.png)
+![image alt](mcp-spotify-tools.png)
+![image alt](playlist-created..png)
 
+Add new song to a playlist
+![image alt](cursor-command2.png)
+![image alt](spotify-playlist-view.png)
 
-* Cursor IDE commands
-* MCP tool execution logs
-* Spotify playlist & track changes in real time
-
+Currently Playing song!
+![image alt](cursor=command3.png)
+![image alt](currently-playing-track.png)
 
 
 ---
