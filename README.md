@@ -103,7 +103,8 @@ Save the current song to liked songs
 ![image alt](playlist-created..png)
 
 
-```
+
+
 ➕ Add songs to playlists automatically
 
 
@@ -111,7 +112,7 @@ Save the current song to liked songs
 
 ![image alt](spotify-playlist-view.png)
 
-```
+
 
 
 
@@ -146,7 +147,7 @@ Save the current song to liked songs
 ## 👤 Author
 
 **Aravindhan K**
-Full Stack Developer | AI & Automation Enthusiast
+ AI & Automation Enthusiast
 
 ---
 
