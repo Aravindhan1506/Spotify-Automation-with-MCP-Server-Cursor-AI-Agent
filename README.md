@@ -103,13 +103,15 @@ Save the current song to liked songs
 ![image alt](playlist-created..png)
 
 
-
+```
 ➕ Add songs to playlists automatically
 
 
 ![image alt](cursor-command2.png)
 
 ![image alt](spotify-playlist-view.png)
+
+```
 
 
 
