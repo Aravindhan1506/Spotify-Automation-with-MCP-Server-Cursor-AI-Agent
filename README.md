@@ -92,17 +92,32 @@ Save the current song to liked songs
 
 ## 📸 Screenshots
 
-Creating a playlist and add a song
+
+🎵 Create Spotify playlists via natural language
+
+
 ![image alt](cursor-command.png)
+
 ![image alt](mcp-spotify-tools.png)
+
 ![image alt](playlist-created..png)
 
-Add new song to a playlist
+
+
+➕ Add songs to playlists automatically
+
+
 ![image alt](cursor-command2.png)
+
 ![image alt](spotify-playlist-view.png)
 
-Currently Playing song!
+
+
+▶️ Get currently playing track
+
+
 ![image alt](cursor=command3.png)
+
 ![image alt](currently-playing-track.png)
 
 
